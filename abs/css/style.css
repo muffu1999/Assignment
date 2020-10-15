@@ -1,0 +1,77 @@
+.mydiv1
+{
+    background-color: blue;
+    height: 30px;
+    width: 100%;
+}
+.mydiv2
+{
+    height: 50px;
+    width: 100%;
+    border-bottom: 1px solid silver
+}
+.riders span
+{
+    text-transform: uppercase;
+    color: blue;
+    
+}
+.new span
+{
+    text-transform: uppercase;
+    color: black;
+    
+}
+.riders
+{
+    border-bottom: 1px solid blue;
+    text-align: center
+}
+.new
+{
+    border-bottom: 1px solid silver;
+    text-align: center
+}
+.mydiv3
+{
+    height: 530px;
+    border-bottom: 1px solid silver;
+}
+.active
+{
+    height:30px;
+    width: 80px;
+    float: right;
+    color:blue;
+    border: 0.5px solid blue;
+    margin-top:5px;
+    text-align: center;
+    border-radius: 8px;
+  
+}
+.mydiv4
+{   
+    margin-top:10px;
+    border:1px solid black;
+    height:100px;
+    width:100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    
+}
+.dormant
+{
+    height:30px;
+    width: 80px;
+    float: right;
+    color:red;
+    border: 0.5px solid red;
+    margin-top:5px;
+    text-align: center;
+    border-radius: 8px;
+  
+}
+
+
+
